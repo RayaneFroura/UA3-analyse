@@ -1,0 +1,3 @@
+def nouvelle_fonction():
+    print("Fonction ajoutée sur branche1")
+
